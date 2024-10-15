@@ -5,7 +5,7 @@
 - 你需要完成下发文件中的作业代码，在 OJ 上面提交`map.hpp`，要求可以实现 map 的基本操作，并且具有一定的鲁棒性。
 - Bonus: 在测试数据中有一些`type_traits`的测试，感兴趣可以尝试。具体的工作以及计分方法尚未确定，后续可能会有更新。
 - 在本作业中，只允许使用`cstdio`，`cstring`，`iostream`，`cmath`，`string`五个 C++ 标准库，如需使用其他功能请自行实现。
-- 我们会检查内存泄漏，如果还不会测内存泄漏，可以看教程[如何检测内存泄漏？](./tutorials/detect-memory-leak/detect-memory-leak.md)
+- 我们会检查内存泄漏。
 
 ## 下发文件
 
